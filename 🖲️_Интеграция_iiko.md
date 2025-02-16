@@ -1,4 +1,4 @@
-![[files/Pasted image 20250216183801.png]]
+![Pasted image 20250216183801.png](files/Pasted image 20250216183801.png)
 ## Этап 1
 
 Список задач: 
