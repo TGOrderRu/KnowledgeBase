@@ -6,7 +6,7 @@
 
 🔗 [Интеграции: POS, платежи, аналитика](/860c9a66fc934dbd8ae98ad7495c78da)
 
-![Pasted image 20250216182926.png](files/Pasted image 20250216182926.png)
+![Pasted image 20250216182926.png](files/Pasted_image_20250216182926.png)
 
 ---
 
